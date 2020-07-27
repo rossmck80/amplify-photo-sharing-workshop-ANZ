@@ -1,7 +1,7 @@
 +++
 title = "Fetching Posts via the GraphQL API"
 date = 2020-07-27T20:01:20+08:00
-weight = 13
+weight = 53
 +++
 
 ## Post.js

@@ -14,7 +14,9 @@ $ npm install -g @aws-amplify/cli
 
 Now we need to configure the CLI with our credentials.
 
-> If you'd like to see a video walkthrough of this configuration process, click [here](https://www.youtube.com/watch?v=fWbM5DLh25U).
+{{% notice tip %}}
+If you'd like to see a video walkthrough of this configuration process, click [here](https://www.youtube.com/watch?v=fWbM5DLh25U).
+{{% /notice %}}
 
 ```markdown
 $ amplify configure

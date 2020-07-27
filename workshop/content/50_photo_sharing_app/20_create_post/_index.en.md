@@ -1,7 +1,7 @@
 +++
 title = "Creating New Posts"
 date = 2020-07-27T19:59:50+08:00
-weight = 12
+weight = 52
 +++
 
 ## CreatePost.js
@@ -53,7 +53,7 @@ const initialState = {
 export default function CreatePost({
   updateOverlayVisibility, updatePosts, posts
 }) {
-    
+
   /* 1. Create local state with useState hook */
   const [formState, updateFormState] = useState(initialState)
 

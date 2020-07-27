@@ -1,7 +1,7 @@
 +++
 title = "Deploying the API"
 date = 2020-07-23T21:34:17+08:00
-weight = 11
+weight = 21
 +++
 
 ### Deploying the API

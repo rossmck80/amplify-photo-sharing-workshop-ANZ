@@ -1,7 +1,7 @@
 +++
 title = "Using GraphQL with React"
 date = 2020-07-23T21:38:51+08:00
-weight = 12
+weight = 22
 +++
 
 Now, our API is created & we can test it out in our app!

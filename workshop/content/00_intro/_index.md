@@ -6,4 +6,11 @@ chapter = true
 # pre = "<b>X. </b>"
 +++
 
-Lorem Ipsum.
+## Topics We'll Be Covering
+
+- GraphQL API with AWS AppSync
+- Authentication
+- Object (image) storage
+- Authorization
+- Hosting
+- Deleting the resources

@@ -1,7 +1,7 @@
 +++
 title = "Adding Authentication"
 date = 2020-07-23T21:49:08+08:00
-weight = 10
+weight = 30
 +++
 
 Next, let's update the app to add authentication.

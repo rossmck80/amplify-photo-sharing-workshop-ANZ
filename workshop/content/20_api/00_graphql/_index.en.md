@@ -1,7 +1,7 @@
 +++
 title = "Adding a GraphQL API"
 date = 2020-07-23T21:30:53+08:00
-weight = 10
+weight = 20
 +++
 
 To add a GraphQL API, we can use the following command:
@@ -23,7 +23,7 @@ $ amplify add api
 
 The CLI should open this GraphQL schema in your text editor or IDE.
 
-__amplify/backend/api/Postagram/schema.graphql__
+__amplify/backend/api/postagram/schema.graphql__
 
 Update the schema to the following:   
 

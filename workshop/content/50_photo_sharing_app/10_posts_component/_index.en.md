@@ -1,7 +1,7 @@
 +++
 title = "Displaying Posts"
 date = 2020-07-27T19:47:27+08:00
-weight = 11
+weight = 51
 +++
 
 ## Posts.js

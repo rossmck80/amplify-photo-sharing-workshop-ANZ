@@ -1,7 +1,7 @@
 +++
 title = "Image Storage with Amazon S3"
 date = 2020-07-27T18:45:54+08:00
-weight = 10
+weight = 40
 +++
 
 
@@ -12,7 +12,7 @@ $ amplify add storage
 
 ? Please select from one of the below mentioned services: Content
 ? Please provide a friendly name for your resource that will be used to label this category in the project: images
-? Please provide bucket name: postagram14148f2f4aeb4f259c847e1e27145a2 <use_the_default>
+? Please provide bucket name: postagramxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx <use_the_default>
 ? Who should have access: Auth and guest users
 ? What kind of access do you want for Authenticated users? create, update, read, delete
 ? What kind of access do you want for Guest users? read

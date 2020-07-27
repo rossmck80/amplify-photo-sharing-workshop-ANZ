@@ -1,7 +1,7 @@
 +++
 title = "App Setup"
 date = 2020-07-27T19:37:23+08:00
-weight = 10
+weight = 50
 +++
 
 ### Creating the folder structure for our app

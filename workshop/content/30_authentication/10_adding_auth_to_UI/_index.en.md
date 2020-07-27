@@ -1,7 +1,7 @@
 +++
 title = "Authentication in React"
 date = 2020-07-23T21:49:28+08:00
-weight = 11
+weight = 31
 +++
 
 ### Using the withAuthenticator component
