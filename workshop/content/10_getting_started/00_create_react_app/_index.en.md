@@ -6,13 +6,13 @@ weight = 10
 
 To get started, we first need to create a new React project using the [Create React App CLI](https://github.com/facebook/create-react-app).
 
-```bash
+```markdown
 $ npx create-react-app postagram
 ```
 
 Now change into the new app directory and install NPM packages for AWS Amplify, AWS Amplify UI React, react-router-dom, emotion, and uuid
 
-```bash
+```markdown
 $ cd postagram
 $ npm install aws-amplify emotion uuid react-router-dom @aws-amplify/ui-react
 ```
