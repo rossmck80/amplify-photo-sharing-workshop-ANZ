@@ -81,8 +81,10 @@ export default function App() {
 
 In the above code we are using `API.graphql` to call the GraphQL API, and then taking the result from that API call and storing the data in our state. This should be the list of posts you created via the GraphiQL editor.
 
-Next, test the app:
+Next, test the app - in the terminal type:
 
 ```markdown
 $ npm start
 ```
+
+make sure you are in folder ~/environment/postagram

@@ -21,7 +21,7 @@ $ amplify add api
 ? Do you want to edit the schema now? (Y/n) Y
 ```
 
-The CLI should open this GraphQL schema in your text editor or IDE.
+The CLI should open this GraphQL schema in your text editor or IDE. If it doesnt, click on the link provided in the console to see this file
 
 __amplify/backend/api/postagram/schema.graphql__
 
@@ -37,4 +37,4 @@ type Post @model {
 }
 ```
 
-After saving the schema, go back to the CLI and press enter.
+After saving the schema, go back to the CLI and press enter
