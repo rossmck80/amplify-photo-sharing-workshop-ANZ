@@ -1,7 +1,7 @@
 +++
 title = "Cleaning Up"
 date = 2020-07-27T21:07:03+08:00
-weight = 62
+weight = 72
 +++
 
 ### Removing Services
